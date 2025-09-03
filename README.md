@@ -117,8 +117,14 @@ Its validation and expansion were only possible thanks to the Black Belt Group t
 
 If you reference this work, please cite:
 
-Paulino, Gustavo. Black Belt OS™: A Universal Law of Human Organization — Structure, Falsifiability, and Applications.
-Zenodo. https://doi.org/10.5281/zenodo.17047585
+Paulino, Gustavo. Black Belt OS™: A Universal Law of Human Organization — Structure, Falsifiability, and Applications. Zenodo. https://doi.org/10.5281/zenodo.17049248
+
+🔹 How to Cite this Repository
+
+This repository itself can also be cited as a timestamped, versioned record of the discovery:
+
+Paulino, Gustavo. Black Belt OS™ Manifesto Repository. GitHub. Available at: https://github.com/ogustavopaulino/black-belt-os-manifesto
+
 
 🔥 The BB-OS is the first declared and testable universal law of human organization.
 This repository serves as a public record, timestamp, and living proof of its discovery.
